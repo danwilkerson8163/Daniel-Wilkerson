@@ -1,8 +1,7 @@
 # Hobbies
 
 *One of my favorite things to do is 3D Printing. These sites are my go to when trying to find interesting things to print. Check them out!*
-* [MyMiniFactory](https://www.myminifactory.com/)
-<img style="float: right;" src="https://www.myminifactory.com/uploads/tinymce-images/Logo2.png">
+|* [MyMiniFactory](https://www.myminifactory.com/)  | <img style="float: right;" src="https://www.myminifactory.com/uploads/tinymce-images/Logo2.png" width="100"/> |
 * [Thingiverse](https://www.thingiverse.com/)
 
 
