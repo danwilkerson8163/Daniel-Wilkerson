@@ -18,4 +18,4 @@
 ###### *Also See:*
 * [My Projects](./my_projects.md)
 * [Hobbies](./hobby.md)
-* [Accomplishments](./accomplishments.md)
+* [Resume](./resume.md)
