@@ -9,4 +9,4 @@ Navigate my website using these links:
 * [Skills](./skills.md)
 * [My Projects](./my_projects.md)
 * [Hobbies](./hobby.md)
-* [Accomplishments](./marks.md)
+* [Accomplishments](./accomplishments.md)
