@@ -1,19 +1,6 @@
-# Academy Performance
+# Resume
 
-## My marks-
-
-| test | Maths | C language |
-| ------- |:-------:| -----:|
-| Test 1 | 10 | 8 |
-| Mid Sem | 20 | 20 |
-| End Sem | 65 | 69 |
-
-## Certificates
-
-![Certificate 1](https://github.com/username/image.png)
-
-![Certificate 2](https://www.creativecertificates.com/wp-content/uploads/2014/03/certificate-of-excellence.jpg)
-
+<img style="float: right;" src="images/resume.pdf" width="300"/>
 [return to home](./README.md)
 
 ###### *Also See:*
