@@ -1,6 +1,26 @@
-# Code Sample
+# Previous Work
 
-Some of code sample written by me
+#### **These are some of the work ive done so far during college at Mizzou.**
+
+### Adobe Illustrator
+
+<p float="left">
+  <img src="images/danielwilkerson3a@2x.png" width="200" />
+  <img src="images/danielwilkerson3b@2x.png" width="200" /> 
+</p>
+
+<p float="left">
+  <img src="images/danielwilkerson3c@2x.png" width="200" />
+  <img src="images/danielwilkerson3d@2x.png" width="200" /> 
+</p>
+
+### Adobe Photoshop
+<p float="left">
+  <img src="images/danielwilkerson4.jpg" width="800" />
+</p>
+
+
+
 
 ### HTML
 ```html
