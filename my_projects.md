@@ -170,7 +170,7 @@ namespace Wilkerson_DocumentMerger
 ```
 ###### *Also See:*
 * [Skills](./skills.md)
-* [Accomplishments](./accomplishments.md)
+* [Resume](./resume.md)
 * [Hobbies](./hobby.md)
 
 [return to home page](./README.md)
