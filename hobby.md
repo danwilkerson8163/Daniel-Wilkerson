@@ -18,4 +18,4 @@ Byf spends **a lot** of time on his videos and Im quite excited for what he has 
 ###### *Also See:*
 * [My Projects](./my_projects.md)
 * [Skills](./skills.md)
-* [Accomplishments](./accomplishments.md)
+* [Resume](./resume.md)
